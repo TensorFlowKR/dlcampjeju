@@ -17,9 +17,9 @@ Those selected as participants will be provided with one (1) round-trip airfare 
 * Participants: 20
 * Location: Jeju National University / Kakao Space.1  
 * Organizers: TensorFlow Korea User Group, Kakao, Google, Smart Grid CK Center in Jeju National Univ, Jeju Center for Creative Economy and Innovation, Jeju Local Government (Subject to change)
-Home page: https://github.com/TensorFlowKR/ml-jeju-camp
-Application: https://www.surveymonkey.com/r/LY29GM5 (By April 20 11:59PM AOE)
-Contacts: Please leave your comments/questions on issues in this page. 
+* Home page: https://github.com/TensorFlowKR/ml-jeju-camp
+* Application: https://www.surveymonkey.com/r/LY29GM5 (By April 20 11:59PM AOE)
+* Contacts: Please leave your comments/questions on issues (https://github.com/TensorFlowKR/ml-jeju-camp/issues) in this page. 
 
 
 ## Benefits (TBD)
@@ -121,4 +121,4 @@ A: Yes, the keynote and open seminars are open to everyone. We will have a separ
 A: Sorry, but we have no current plans to recruit staff members.
 
 #### Q: I do have more questions. Where should I contact?
-A: Please use the issue of this page to ask questions.
+A: Please use the issue (https://github.com/TensorFlowKR/ml-jeju-camp/issues) of this page to ask questions.
