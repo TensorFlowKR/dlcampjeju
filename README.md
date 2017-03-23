@@ -34,44 +34,44 @@ Contacts: mljejucamp@googlegroups.com
 * Must be able to stay in Jeju Island from July 3rd to 28th. (Weekday camp programs run from 10AM to 5PM)
 * Good understanding of TensorFlow and deep learning and ability to train models (should be able to understand all in https://github.com/hunkim/DeepLearningZeroToAll)
 * Basic communication skills in English (All programs will be in English)
-Application (deadline: April 20th)
 
-Detailed proposal for Deep Learning Camp Jeju 2017 project (Please be as detailed as possible)
-CV that showcases applicant’s experience with deep learning and TensorFlow
-Link to previously trained models (GitHub or other)
-Other supporting materials to show your qualification 
+## Application (deadline: April 20th)
+* Detailed proposal for Deep Learning Camp Jeju 2017 project (Please be as detailed as possible)
+* CV that showcases applicant’s experience with deep learning and TensorFlow
+* Link to previously trained models (GitHub or other)
+* Other supporting materials to show your qualification 
 
-Proposal examples:
- “I will implement paper X from 2016 NIPS Conference using TensorFlow and apply idea Y to the implementation”
-“My goal is to add idea X to existing TensorFlow model Y and apply it to dataset Z”
+## Proposal examples:
+* “I will implement paper X from 2016 NIPS Conference using TensorFlow and apply idea Y to the implementation”
+* “My goal is to add idea X to existing TensorFlow model Y and apply it to dataset Z”
 (Please justify why you are interested in the particular paper, model, dataset, etc. Write your proposal  as detailed as possible as it will be the primary criteria to select participants.)
 
-Basic Tasks (but not limited to)
-Each participant will implement own deep learning related ideas and recently published ideas (in ICML, ICLR, NIPS, etc.) in TensorFlow. Or adapt already implemented ideas to new dataset. Participants will propose in the application.
-Participate in camp program. (10AM-5PM on weekday basis from July 1 to July 30)
-Deep learning and TensorFlow expert mentors will advise each participant.
-Release the code on the github as Open Source.
+## Basic Tasks (but not limited to)
+* Each participant will implement own deep learning related ideas and recently published ideas (in ICML, ICLR, NIPS, etc.) in TensorFlow. Or adapt already implemented ideas to new dataset. Participants will propose in the application.
+* Participate in camp program. (10AM-5PM on weekday basis from July 1 to July 30)
+* Deep learning and TensorFlow expert mentors will advise each participant.
+* Release the code on the github as Open Source.
 
 
-Camp rules
+## Camp rules
 participants may be dismissed from the camp for the following or similar reasons:
-Repeatedly engage in behavior that negatively impacts other participants' work
-Spend unreasonable amount of time on non-camp related tasks.
-More than 3 missed camp days without proper notice.
+* Repeatedly engage in behavior that negatively impacts other participants' work
+* Spend unreasonable amount of time on non-camp related tasks.
+* More than 3 missed camp days without proper notice.
 
-Important dates
-Application due: April 20 (AOE time zone)
-Notification: May 10
-Mentor assignment and online discussion: June 1
-Camp starts: July 3
+## Important dates
+* Application due: April 20 (AOE time zone)
+* Notification: May 10
+* Mentor assignment and online discussion: June 1
+* Camp starts: July 3
 
-About Jeju
+## About Jeju
 Located just off the coast of the Korean peninsula, Jeju Island is the largest volcanic island in Korea. Also known as Asia's Hawaii, the island is rife with beautiful sceneries and getaway resorts. Jeju boasts several natural treasures including Mount Halla, the country's highest peak, Trail Olle that winds around the rocky coastline, and Sunrise Peak, a dormant volcano ideal for catching sunrises and sunsets. You will be able to fully experience the island's charm for as long as a month without a visa. For more information, please visit at: http://www.visitjeju.net/en/index.jto. 
 
-About Camp
+## About Camp
 Deep Learning Camp Jeju 2017 is a month-long program (July 3-28, 2017) where participants gain hands-on experience with TensorFlow through individual-based projects with the goal of implementing new deep learning related ideas, and/or already-published ideas. We are looking for approximately 20 participants. More than a dozen industry experts with strong backgrounds in deep learning and TensorFlow implementation will serve as project mentors to guide participants. 
 
-FAQs
+## FAQs
 
 Q: What are we doing during the one month program?
 A: Basically, we design a deep learning model and fully implement using TensorFlow. It is also possible to (re) implement a published paper (by others) and adapt it for new datasets. Based on this, each participants will propose their own plans in their application.
@@ -121,7 +121,7 @@ A: Sorry, but we have no current plans to recruit staff members.
 Q: I do have more questions. Where should I contact?
 A: Please email us <mljejucamp@googlegroups.com>
 
-Application link: http://
+## Application link: (TBA)
 Name: _____
 Email: _____
 Nationality: ___
