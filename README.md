@@ -18,7 +18,7 @@ Those selected as participants will be provided with one (1) round-trip airfare 
 * Location: Jeju National University / Kakao Space.1  
 * Organizers: TensorFlow Korea User Group, Kakao, Google, Smart Grid CK Center in Jeju National Univ, Jeju Center for Creative Economy and Innovation, Jeju Local Government (Subject to change)
 Home page: https://github.com/TensorFlowKR/ml-jeju-camp
-Application: https://github.com/TensorFlowKR/ml-jeju-camp (TBA)
+Application: https://www.surveymonkey.com/r/LY29GM5 (By April 20 11:59PM AOE)
 Contacts: mljejucamp@googlegroups.com 
 
 
@@ -35,11 +35,12 @@ Contacts: mljejucamp@googlegroups.com
 * Good understanding of TensorFlow and deep learning and ability to train models (should be able to understand all in https://github.com/hunkim/DeepLearningZeroToAll)
 * Basic communication skills in English (All programs will be in English)
 
-## Application (deadline: April 20th)
+## Application (By April 20 11:59PM AOE)
 * Detailed proposal for Deep Learning Camp Jeju 2017 project (Please be as detailed as possible)
 * CV that showcases applicant’s experience with deep learning and TensorFlow
 * Link to previously trained models (GitHub or other)
 * Other supporting materials to show your qualification 
+* Link: https://www.surveymonkey.com/r/LY29GM5 
 
 ## Proposal examples:
 * “I will implement paper X from 2016 NIPS Conference using TensorFlow and apply idea Y to the implementation”
