@@ -2,7 +2,7 @@
 
 If you have studied machine learning/deep learning and TensorFlow, you probably want to implement a non-trivial and large-scale system for real use. We invite you to the month-long Machine Learning Camp Jeju 2017, where you can make that dream a reality.
  
-For a full month in beautiful Jeju Island, you and other participants will train a deep learning model using TensorFlow from start-to-finish. Jeff Dean (Google Senior Fellow via Hangout), and Rajat Monga (Google/TensorFlow Director (TBC)) will give us keynote talks. Plus, you will have access to experienced mentors including Namju Kim (Head of Research for Kakao Brain), Lucy Park (TF-KR), Sung Kim (TF-KR), Donghyun Kwak (TF-KR), Terry Taewoong Um (TF-KR), and many more. We hope you take advantage of this wonderful opportunity.
+For a full month in beautiful Jeju Island, you and other participants will train a deep learning model using TensorFlow from start-to-finish. Jeff Dean (Google Senior Fellow via Hangout), and Rajat Monga (Google/TensorFlow Director (TBC)) will give us keynote talks. Plus, you will have access to experienced mentors including Namju Kim (Head of Research for Kakao Brain), Sung Kim (HKUST), Lucy Park (TF-KR), Donghyun Kwak (TF-KR), Terry Taewoong Um (TF-KR), and many more. We hope you take advantage of this wonderful opportunity.
  
 Those selected as participants will be provided with one (1) round-trip airfare (up to 300 USD)  to Jeju Island (South Korea), room and board at Jeju National University, USD 1,000 in stipends and USD 500 to 1,000 in Google Cloud Credit. In addition to these benefits, participants will gain valuable and practical experience in the field of deep learning. We look forward to your application!
  
