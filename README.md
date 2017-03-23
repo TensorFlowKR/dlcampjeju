@@ -6,7 +6,7 @@ For a full month in beautiful Jeju Island, you and other participants will train
  
 Those selected as participants will be provided with one (1) round-trip airfare (up to 300 USD)  to Jeju Island (South Korea), room and board at Jeju National University, USD 1,000 in stipends and USD 500 to 1,000 in Google Cloud Credit. In addition to these benefits, participants will gain valuable and practical experience in the field of deep learning. We look forward to your application!
  
-* Mentor Recruitment: If you’re interested in sharing your experiences and expertise with the camp, please contact us at mljejucamp@googlegroups.com. You will serve as personal mentors to 1 to 2 participants, holding 2 to 3 on/offline meetings a week to help them successfully complete their projects. While it is possible for you to provide online-only mentoring, we suggest you visit Jeju Island to meet with your mentees in person. We will provide round-trip airfare (up to USD 300) to Jeju Island and up to five (5) days of room and board.*
+*Mentor Recruitment: If you’re interested in sharing your experiences and expertise with the camp, please contact us at mljejucamp@googlegroups.com. You will serve as personal mentors to 1 to 2 participants, holding 2 to 3 on/offline meetings a week to help them successfully complete their projects. While it is possible for you to provide online-only mentoring, we suggest you visit Jeju Island to meet with your mentees in person. We will provide round-trip airfare (up to USD 300) to Jeju Island and up to five (5) days of room and board.*
  
 (Information regarding schedule, program and benefits are subject to change as we are in the process of finalizing the details. We will have more information later.)
  
