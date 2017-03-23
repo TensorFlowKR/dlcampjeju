@@ -36,9 +36,9 @@ Those selected as participants will be provided with one (1) round-trip airfare 
 ## Application (By April 20 11:59PM AOE)
 * Detailed proposal for Deep Learning Camp Jeju 2017 project (Please be as detailed as possible)
 * CV that showcases applicant’s experience with deep learning and TensorFlow
-* Link to previously trained models (GitHub or other)
+* Previously implemented models (GitHub or other)
 * Other supporting materials to show your qualification 
-* Link: https://www.surveymonkey.com/r/LY29GM5 
+* Application link: https://www.surveymonkey.com/r/LY29GM5 
 
 ## Proposal examples:
 * “I will implement paper X from 2016 NIPS Conference using TensorFlow and apply idea Y to the implementation”
