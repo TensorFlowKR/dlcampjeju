@@ -74,14 +74,11 @@ Deep Learning Camp Jeju 2017 is a month-long program (July 3-28, 2017) where par
 
 ## FAQs
 
-Q: What are we doing during the one month program?
-
+### Q: What are we doing during the one month program?
 A: Basically, we design a deep learning model and fully implement using TensorFlow. It is also possible to (re) implement a published paper (by others) and adapt it for new datasets. Based on this, each participants will propose their own plans in their application.
 
 
-
-Q: What type of Visa is required for foreigners?
-
+### Q: What type of Visa is required for foreigners?
 A: No visa is required for most countries. Please check at  http://www.immigration.go.kr/HP/IMM80/imm_04/imm_p01/vm3.jsp 
 
 
