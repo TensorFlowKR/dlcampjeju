@@ -8,7 +8,7 @@ Those selected as participants will be provided with one (1) round-trip airfare 
  
 ** Mentor Recruitment: If you’re interested in sharing your experiences and expertise with the camp, please contact us at mljejucamp@googlegroups.com
 
-. You will serve as personal mentors to 1~2 participants, holding 2~3 on/offline meetings a week to help them successfully complete their projects. While it is possible for you to provide online-only mentoring, we suggest you visit Jeju Island to meet with your mentees in person. We will provide round-trip airfare (up to USD 300) to Jeju Island and up to five (5) days of room and board.
+. You will serve as personal mentors to 1 to 2 participants, holding 2 to 3 on/offline meetings a week to help them successfully complete their projects. While it is possible for you to provide online-only mentoring, we suggest you visit Jeju Island to meet with your mentees in person. We will provide round-trip airfare (up to USD 300) to Jeju Island and up to five (5) days of room and board.
  
 (Information regarding schedule, program and benefits are subject to change as we are in the process of finalizing the details. We will have more information later.)
  
