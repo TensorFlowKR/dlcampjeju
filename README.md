@@ -32,7 +32,7 @@ Those selected as participants will be provided with one round-trip airfare (up 
 * No nationality, gender, age, degree, education requirements
 * Must be able to stay in Jeju Island from July 3rd to 28th. (Weekday camp programs run from 10AM to 5PM)
 * Good understanding of TensorFlow and deep learning and ability to train models (should be able to understand all in https://github.com/hunkim/DeepLearningZeroToAll)
-* Being able to release the code wirtten during the camp publicly on github
+* Being able to release the code written during the camp publicly on github
 * Basic communication skills in English (All programs will be in English)
 
 ## Application (By April 20 11:59PM AOE)
