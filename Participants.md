@@ -5,7 +5,7 @@ We are very pleased to inform that 20 participants have been successfully select
 We will also update the progress and all results/implemenations will be related in Github.
 
 * Yandong Liu: Using Tensorflow to build self-driving cars!
-* BingzheWu: Patter Reconization and Machine Learning
+* BingzheWu: Single Image Resolution via Learnable Percptual Loss
 * Huseyin Coskun: "Professor Forcing" [1] paper with using tensorflow
 * Cem Koc: Prioritized Experience Replay
 * Kiho Suh: StoryGAN: Storytelling with artistic images synthesized from story book
