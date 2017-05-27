@@ -4,10 +4,10 @@ We are very pleased to inform that 20 participants have been successfully select
 
 We will also update the progress and all results/implemenations will be related in Github.
 
-* Yandong Liu: Using Tensorflow to build self-driving cars!
+* ~~Yandong Liu: Using Tensorflow to build self-driving cars!~~
 * BingzheWu: Single Image Resolution via Learnable Percptual Loss
 * Huseyin Coskun: "Professor Forcing" [1] paper with using tensorflow
-* Cem Koc: Prioritized Experience Replay
+* ~~Cem Koc: Prioritized Experience Replay~~
 * Kiho Suh: StoryGAN: Storytelling with artistic images synthesized from story book
 * Kyu-ye (Rachel) Song: Design a text emotion recognition model using user emotion data 
 * Tommy Mulc: CycleGAN for speech synthesis
@@ -24,3 +24,5 @@ We will also update the progress and all results/implemenations will be related 
 * Eunsoo Park: An automated summarization
 * Xihan Li: One-shot learning using NTM
 * Kyushik Min: Deep Reinforcement Learning Based Autonomous Vehicle Control 
+* Kim Seonghyeon: Incorporating Wasserstein GAN with categorical structure like ones in Auxiliary Classifier GAN
+* Lanfa Liu: identify collapsed buildings caused by earthquake using high resolution remote sensing images and deep learning
