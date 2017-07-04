@@ -1,56 +1,55 @@
-#Proposal Presentation
+# Proposal Presentation
 
 
 
-* 1. Sally Hong
+* Sally Hong
 https://docs.google.com/presentation/d/1wTZorRZtQ3FZLsIN1rZLL7SwEEeQHSqSaTHbIu8tq4k/edit?usp=sharing
 
-* 2. Tommy Mulc
+* Tommy Mulc
 https://docs.google.com/presentation/d/17hCAZE1E9HX6wEq3MefUCfyH9sENQObxcSE-w8GgTuY/edit?usp=sharing
 
-* 3. Egil Martinsson : PPT
+* Egil Martinsson : PPT
 
-* 4. Kyu-ye Song
+* Kyu-ye Song
 https://docs.google.com/presentation/d/1av4dzZ4ztHQkPn0AcReummaIxECGanxIm642cbczsP8/edit?usp=sharing
 
 
-* 5. Judit Acs : PPT
+* Judit Acs : PPT
 
-* 6. Sanghoon Yoon : PPT
+* Sanghoon Yoon : PPT
 
-* 7. Lanfa : PPT
+* Lanfa : PPT
 
-* 8. Mark Kwon : 
+* Mark Kwon : 
 https://docs.google.com/presentation/d/1fpRs4S041-YiTljNZfkVVLKaeHfxPgNi_l3NgRfj1kc/edit?usp=sharing
 
-* 9. Jaehyeon Kim:
+* Jaehyeon Kim:
 https://docs.google.com/presentation/d/1dyFu7eVINe4aDfy2GZC_lFZMQHcalcO53bIOl201W9E/edit?usp=sharing
 
-* 10. Eunsoo : PPT
+* Eunsoo : PPT
 
-* 11. Bingzhe
+* Bingzhe
 https://bingzhewu.github.io
 
-* 12. Elliott : PPT
+* Elliott : PPT
 
-* 13. KyuShik Min : PPT
+* KyuShik Min : PPT
 
-* 14. Kiho Suh : PPT
+* Kiho Suh : PPT
 
-* 15. Xihan Li: PPT
+* Xihan Li: PPT
 
-* 16. Rishabh Gupta : https://goo.gl/yUpTjS 
+* Rishabh Gupta : https://goo.gl/yUpTjS 
 
-* 17. Huseyin : 
+* Huseyin : 
 https://docs.google.com/presentation/d/1-kqCqhlBoxyI2HMpGuhCDZqHDaEZE1xI95mr4zkQU7s/edit?usp=sharing
 
-* 18. Jing : Talk
+* Jing : Talk
 
-* 19. Gayoung Lee : 
-https://docs.google.com/presentation/d/1DD9vSDToC3bYVVSIAzLXmfzb9xQV2frx0FDAgaxGdQA/edit?usp=sharing
+* [Gayoung Lee : Anyone who loves cartoon?](https://docs.google.com/presentation/d/1DD9vSDToC3bYVVSIAzLXmfzb9xQV2frx0FDAgaxGdQA/edit?usp=sharing)
 
-* 20. Seonghyeon Kim: PPT
+* Seonghyeon Kim: PPT
 
-* 21. Hyunwoo Song : PPT
+* Hyunwoo Song : PPT
 
-* 22. Kihoon Back : PPT
+* Kihoon Back : PPT
