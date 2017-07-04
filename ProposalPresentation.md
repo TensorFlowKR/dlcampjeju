@@ -46,7 +46,7 @@ https://docs.google.com/presentation/d/1-kqCqhlBoxyI2HMpGuhCDZqHDaEZE1xI95mr4zkQ
 
 * Jing : Talk
 
-* [Gayoung Lee : Anyone who loves cartoon?](https://docs.google.com/presentation/d/1DD9vSDToC3bYVVSIAzLXmfzb9xQV2frx0FDAgaxGdQA/edit?usp=sharing)
+* Gayoung Lee : [Anyone who loves cartoon?](https://docs.google.com/presentation/d/1DD9vSDToC3bYVVSIAzLXmfzb9xQV2frx0FDAgaxGdQA/edit?usp=sharing)
 
 * Seonghyeon Kim: PPT
 
