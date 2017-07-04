@@ -3,9 +3,6 @@
 
 
 
-
-
-
 * Sally Hong : [Clothing Recommender System](https://docs.google.com/presentation/d/1wTZorRZtQ3FZLsIN1rZLL7SwEEeQHSqSaTHbIu8tq4k/edit?usp=sharing)
 
 * Tommy Mulc : [CycleGAN for speech synthesis](https://docs.google.com/presentation/d/17hCAZE1E9HX6wEq3MefUCfyH9sENQObxcSE-w8GgTuY/edit?usp=sharing)
@@ -48,4 +45,4 @@
 
 * Hyunwoo Song : [Realtime Pothole Detection using CNN](PPT)
 
-* Kihoon Back : [none](PPT)
+* Kihoon Back : [Predict electric power production using Recurrent Neural Network.](PPT)
