@@ -2,16 +2,13 @@
 
 
 
-* Sally Hong
-https://docs.google.com/presentation/d/1wTZorRZtQ3FZLsIN1rZLL7SwEEeQHSqSaTHbIu8tq4k/edit?usp=sharing
+* Sally Hong : [Clothing Recommender System](https://docs.google.com/presentation/d/1wTZorRZtQ3FZLsIN1rZLL7SwEEeQHSqSaTHbIu8tq4k/edit?usp=sharing)
 
-* Tommy Mulc
-https://docs.google.com/presentation/d/17hCAZE1E9HX6wEq3MefUCfyH9sENQObxcSE-w8GgTuY/edit?usp=sharing
+* Tommy Mulc : [CycleGAN for speech synthesis](https://docs.google.com/presentation/d/17hCAZE1E9HX6wEq3MefUCfyH9sENQObxcSE-w8GgTuY/edit?usp=sharing)
 
 * Egil Martinsson : PPT
 
-* Kyu-ye Song
-https://docs.google.com/presentation/d/1av4dzZ4ztHQkPn0AcReummaIxECGanxIm642cbczsP8/edit?usp=sharing
+* Kyu-ye Song : [Design a text emotion recognition model and Generating affective text using user emotion data](https://docs.google.com/presentation/d/1av4dzZ4ztHQkPn0AcReummaIxECGanxIm642cbczsP8/edit?usp=sharing)
 
 
 * Judit Acs : PPT
@@ -20,16 +17,13 @@ https://docs.google.com/presentation/d/1av4dzZ4ztHQkPn0AcReummaIxECGanxIm642cbcz
 
 * Lanfa : PPT
 
-* Mark Kwon : 
-https://docs.google.com/presentation/d/1fpRs4S041-YiTljNZfkVVLKaeHfxPgNi_l3NgRfj1kc/edit?usp=sharing
+* [Mark Kwon](https://docs.google.com/presentation/d/1fpRs4S041-YiTljNZfkVVLKaeHfxPgNi_l3NgRfj1kc/edit?usp=sharing)
 
-* Jaehyeon Kim:
-https://docs.google.com/presentation/d/1dyFu7eVINe4aDfy2GZC_lFZMQHcalcO53bIOl201W9E/edit?usp=sharing
+* Jaehyeon Kim: [NMT with Monolingual Data](https://docs.google.com/presentation/d/1dyFu7eVINe4aDfy2GZC_lFZMQHcalcO53bIOl201W9E/edit?usp=sharing)
 
 * Eunsoo : PPT
 
-* Bingzhe
-https://bingzhewu.github.io
+* Bingzhe : [Single Image Super Resolution](https://bingzhewu.github.io)
 
 * Elliott : PPT
 
@@ -39,10 +33,9 @@ https://bingzhewu.github.io
 
 * Xihan Li: PPT
 
-* Rishabh Gupta : https://goo.gl/yUpTjS 
+* Rishabh Gupta : [MAD-GAN](https://goo.gl/yUpTjS) 
 
-* Huseyin : 
-https://docs.google.com/presentation/d/1-kqCqhlBoxyI2HMpGuhCDZqHDaEZE1xI95mr4zkQU7s/edit?usp=sharing
+* Huseyin : [Motion Generation](https://docs.google.com/presentation/d/1-kqCqhlBoxyI2HMpGuhCDZqHDaEZE1xI95mr4zkQU7s/edit?usp=sharing)
 
 * Jing : Talk
 
