@@ -25,7 +25,7 @@
 
 * Bingzhe Wu : [Single Image Super Resolution](https://bingzhewu.github.io/2017/07/03/Project-updates-in-Jeju/)
 
-* Elliott : [Sketch-Guided Text-to-Image Generation](https://drive.google.com/file/d/0B8z5oUpB2DysOTdGWDVKbmhWR1E/view?usp=sharing)
+* Elliott Wu : [Sketch-Guided Text-to-Image Generation](https://drive.google.com/open?id=0B8z5oUpB2DyseXlmSzFYRDA4Ukk)
 
 * KyuShik Min : [Deep Reinforcement Learning Based Autonomous Vehicle Control Using Vehicle Sensor Data and Driver Assistance System with Tensorflow](https://drive.google.com/file/d/0B8z5oUpB2DysVXhqdkhMa2lFQ0k/view?usp=sharing)
 
