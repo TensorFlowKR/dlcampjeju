@@ -23,7 +23,7 @@
 
 * Eunsoo : [Multi Agent Self-Driving Simulation in Double Merge Scenario](https://drive.google.com/file/d/0B8z5oUpB2DysNl9uZmIzNG1aYms/view?usp=sharing)
 
-* Bingzhe : [Single Image Super Resolution](https://bingzhewu.github.io)
+* Bingzhe Wu : [Single Image Super Resolution](https://bingzhewu.github.io/2017/07/03/Project-updates-in-Jeju/)
 
 * Elliott : [Sketch-Guided Text-to-Image Generation](https://drive.google.com/file/d/0B8z5oUpB2DysOTdGWDVKbmhWR1E/view?usp=sharing)
 
