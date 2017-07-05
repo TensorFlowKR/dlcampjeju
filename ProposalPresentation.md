@@ -37,7 +37,7 @@
 
 * Huseyin : [Motion Generation](https://docs.google.com/presentation/d/1-kqCqhlBoxyI2HMpGuhCDZqHDaEZE1xI95mr4zkQU7s/edit?usp=sharing)
 
-* Jing : Talk
+* Jing Qiu: [Attention based NMT](https://drive.google.com/open?id=0B8z5oUpB2DysY0dtR2xfcEVWRHc)
 
 * Gayoung Lee : [Anyone who loves cartoon?](https://docs.google.com/presentation/d/1DD9vSDToC3bYVVSIAzLXmfzb9xQV2frx0FDAgaxGdQA/edit?usp=sharing)
 
