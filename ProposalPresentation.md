@@ -15,7 +15,7 @@
 
 * Sanghoon Yoon : [Replace part of image with other image](https://drive.google.com/file/d/0B8z5oUpB2DysYnQ1eEl0TXh2Zmc/view?usp=sharing)
 
-* Lanfa : [Identifying collapsed buildings caused by earthquake using VHR satellite images](https://drive.google.com/file/d/0B8z5oUpB2Dysa283YkJYMk1sLTg/view?usp=sharing)
+* Lanfa Liu : [Identifying collapsed buildings caused by earthquake using VHR satellite images](https://drive.google.com/open?id=0B8z5oUpB2DysV2VoVzlGWlRPLUk)
 
 * [Mark Kwon](https://docs.google.com/presentation/d/1fpRs4S041-YiTljNZfkVVLKaeHfxPgNi_l3NgRfj1kc/edit?usp=sharing)
 
