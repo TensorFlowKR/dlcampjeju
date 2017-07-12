@@ -9,7 +9,6 @@
 
 # Machine Learning 101 (2017.07.11/25)
 
-* Heesub Noh (Officer of Information Convergence at Jeju Self Governing Province) : 
-  [Artificial Intelligence-focus on Neural Networks](https://goo.gl/6Y4o9c)
+* Heesub Noh (Officer of Information Convergence at Jeju Self Governing Province) : [Artificial Intelligence-focus on Neural Networks](https://goo.gl/6Y4o9c)
 * Soonson Kwon (Head of APAC DevRel Ecosystem at Google) : Machine Learning & TensorFlow 101 for real beginners 
 
