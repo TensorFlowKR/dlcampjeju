@@ -1,6 +1,6 @@
 # Open Seminar (2017.07.10)
 
-* KyungHyun Cho (Assistant Professor at NYU) : [Deep Learning, Where are you going?](https://goo.gl/kJWfcz)
+* KyungHyun Cho (Assistant Professor at NYU) : [Deep Learning: a Next Step?](https://goo.gl/kJWfcz)
 * Jeff Dean (Google Senior Fellow at Google) : [Large-Scale Deep Learning with TensorFlow](https://goo.gl/7XUasJ)
 * Joseph Lim (Assistant Professor at USC) : Visual Cognition for Interaction (Will be uploaded soon)
 * Yerim Choi (Assistant Professor at Kyonggi University) : Real Problems in Practical ML (Confidential)
