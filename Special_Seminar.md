@@ -5,10 +5,10 @@
 * Joseph Lim (Assistant Professor at USC) : Visual Cognition for Interaction (Will be uploaded soon)
 * Yerim Choi (Assistant Professor at Kyonggi University) : Real Problems in Practical ML (Confidential)
 
-# ML Camp Jeju 2017 Machine Learning 101 A (2017.07.11)
+
+
+# ML Camp Jeju 2017 Machine Learning 101 
+
 * Heesub Noh (Officer of Information Convergence at Jeju Self Governing Province) : Artificial Intelligence-focus on Neural Networks
-
-
-# ML Camp Jeju 2017 Machine Learning 101 B (2017.07.25)
 * Soonson Kwon (Head of APAC DevRel Ecosystem at Google) : Machine Learning & TensorFlow 101 for real beginners
 
