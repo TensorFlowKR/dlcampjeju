@@ -24,5 +24,5 @@ We will also update the progress and all results/implemenations will be related 
 * Eunsoo Park: An automated summarization
 * Xihan Li: One-shot learning using NTM
 * Kyushik Min: Deep Reinforcement Learning Based Autonomous Vehicle Control 
-~~* Kim Seonghyeon: Incorporating Wasserstein GAN with categorical structure like ones in Auxiliary Classifier GAN~~
+* ~~Kim Seonghyeon: Incorporating Wasserstein GAN with categorical structure like ones in Auxiliary Classifier GAN~~
 * Lanfa Liu: identify collapsed buildings caused by earthquake using high resolution remote sensing images and deep learning
