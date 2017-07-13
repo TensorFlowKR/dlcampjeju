@@ -46,3 +46,7 @@
 * Hyunwoo Song : [Realtime Pothole Detection using CNN](https://drive.google.com/file/d/0B8z5oUpB2DysQVFFVlYyRk56TW8/view?usp=sharing)
 
 * Kihoon Back : [Predict electric power production using Recurrent Neural Network.](https://drive.google.com/file/d/0B8z5oUpB2DyscThPY3IwSko5cHc/view?usp=sharing)
+
+
+# One page project overview on July 10
+* [Participants Talk](https://goo.gl/Yv3Dvj)
