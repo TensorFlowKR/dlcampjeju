@@ -1,7 +1,4 @@
-# Proposal Presentation
-
-
-
+# Proposal Presentation (2017. 07. 03)
 
 * Sally Hong : [Clothing Recommender System](https://docs.google.com/presentation/d/1wTZorRZtQ3FZLsIN1rZLL7SwEEeQHSqSaTHbIu8tq4k/edit?usp=sharing)
 
