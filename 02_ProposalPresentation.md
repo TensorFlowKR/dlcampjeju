@@ -45,5 +45,5 @@
 * Kihoon Back : [Predict electric power production using Recurrent Neural Network.](https://drive.google.com/file/d/0B8z5oUpB2DyscThPY3IwSko5cHc/view?usp=sharing)
 
 
-# One page project overview on July 10
+# One page project overview (2017. 07. 10)
 * [Participants Talk](https://goo.gl/Yv3Dvj)
