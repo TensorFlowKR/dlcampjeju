@@ -1,4 +1,4 @@
-# Progress Presentation (2017. 07. 27 - 28)
+# Final Presentation (2017. 07. 27 - 28)
 
 * Eunsoo Park : [Multi Agent Self-Driving Simulation in Double Merge Scenario](https://goo.gl/ER8gzt)
 
