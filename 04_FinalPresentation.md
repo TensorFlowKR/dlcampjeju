@@ -3,8 +3,7 @@
 Name   | Presentation Slides   | Video   |
 :----: | :-------------------: | :-----: |
 Sung Kim | Opening | [Video](https://goo.gl/8C33HV)
-
-* Eunsoo Park : [Slide: Multi Agent Self-Driving Simulation in Double Merge Scenario](https://goo.gl/ER8gzt)
+Eunsoo Park | [Multi Agent Self-Driving Simulation in Double Merge Scenario](https://goo.gl/ER8gzt) | [Video](https://goo.gl/W5rZT3) |
 
 * Bingzhe Wu : [LR2HR:Single Image Super Resolution via Learnable Perceptual Loss](https://goo.gl/Ct1XJG)
 
