@@ -1,7 +1,7 @@
 # Final Presentation (2017. 07. 27 - 28)
 
-Name | Presentation Slides | Video
----- | ------------------- | -------------
+Name   | Presentation Slides   | Video   |
+:----: | :-------------------: | :-----: |
 Sung Kim | Opening | [Video](https://goo.gl/8C33HV)
 
 * Eunsoo Park : [Slide: Multi Agent Self-Driving Simulation in Double Merge Scenario](https://goo.gl/ER8gzt)
