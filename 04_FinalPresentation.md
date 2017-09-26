@@ -4,10 +4,8 @@ Name   | Presentation Slides   | Video   |
 :----: | :-------------------: | :-----: |
 Sung Kim | Opening | [Video](https://goo.gl/8C33HV)
 Eunsoo Park | [Multi Agent Self-Driving Simulation in Double Merge Scenario](https://goo.gl/ER8gzt) | [Video](https://goo.gl/W5rZT3) |
-
-* Bingzhe Wu : [LR2HR:Single Image Super Resolution via Learnable Perceptual Loss](https://goo.gl/Ct1XJG)
-
-* Jaehyeon Kim: [Applying Label Propagation in NMT](https://goo.gl/whAbB1)
+Bingzhe Wu | [LR2HR:Single Image Super Resolution via Learnable Perceptual Loss](https://goo.gl/Ct1XJG) | [Video](https://goo.gl/7bB2Sx) |
+Jaehyeon Kim | [Applying Label Propagation in NMT](https://goo.gl/whAbB1) | [Video](https://goo.gl/Eotv19) |
 
 * Elliott Wu : [Sketch-Guided Text-to-Image Generation](https://goo.gl/S2JjAn)
 
