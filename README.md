@@ -1,4 +1,4 @@
-# Websited for Machine Learning Camp Jeju
+# Website for Machine Learning Camp Jeju
 
 ## Development
 
