@@ -6,7 +6,6 @@ baseurl: /mlcampjeju
 
 theme: jekyll-theme-cayman
 plugins:
-  - jekyll-compose
   - jekyll-mentions
   - jekyll-redirect-from
   - jekyll-seo-tag
