@@ -1,0 +1,5 @@
+baseurl: ''
+jekyll-minifier:
+    compress_css: false
+    compress_javascript: false
+    preserve_line_breaks: true

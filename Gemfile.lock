@@ -16,6 +16,7 @@ GEM
     commonmarker (0.17.7.1)
       ruby-enum (~> 0.5)
     concurrent-ruby (1.0.5)
+    cssminify2 (2.0.1)
     ethon (0.11.0)
       ffi (>= 1.3.0)
     execjs (2.7.0)
@@ -77,6 +78,7 @@ GEM
     html-pipeline (2.7.1)
       activesupport (>= 2)
       nokogiri (>= 1.4)
+    htmlcompressor (0.4.0)
     i18n (0.9.1)
       concurrent-ruby (~> 1.0)
     jekyll (3.6.2)
@@ -115,6 +117,11 @@ GEM
       activesupport (~> 4.0)
       html-pipeline (~> 2.3)
       jekyll (~> 3.0)
+    jekyll-minifier (0.1.5)
+      cssminify2 (~> 2.0)
+      htmlcompressor (~> 0.3)
+      jekyll (~> 3.5)
+      uglifier (~> 3.2)
     jekyll-optional-front-matter (0.3.0)
       jekyll (~> 3.0)
     jekyll-paginate (1.1.0)
@@ -226,6 +233,8 @@ GEM
       ethon (>= 0.8.0)
     tzinfo (1.2.4)
       thread_safe (~> 0.1)
+    uglifier (3.2.0)
+      execjs (>= 0.3.0, < 3)
     unicode-display_width (1.3.0)
 
 PLATFORMS
@@ -234,6 +243,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-mentions
+  jekyll-minifier
   jekyll-redirect-from
   jekyll-seo-tag
 
