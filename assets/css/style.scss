@@ -3,21 +3,4 @@
 
 @import "{{ site.theme }}";
 
-
-header ul {
-  height: inherit;
-  border: none;
-  a {
-      font-size: inherit;
-      line-height: inherit;
-  }
-  li {
-    border: 1px solid #e0e0e0;
-    border-radius: 5px;
-    margin-top: 3px;
-    width: inherit;
-    &:hover {
-        background: #f4f4f4;
-    }
-  }
-}
+// NOTE: Do not erase above. Add custom styles below.
