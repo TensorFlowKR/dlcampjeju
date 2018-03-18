@@ -18,8 +18,8 @@ that come from various backgrounds but all interested in practicing and advancin
 
 - You will have one whole month at Jeju to focus on a deep learning based project, surrounded with top class fellow researchers/developers
 - You will be team up with wonderful mentors, that will help you progress your project
-- You will be provided full accommodation support, 1000 USD stipend, and up to 300 USD support for flights to Jeju
-- You will be also provided 1000 USD worth of Google Cloud credits
+- You will be provided full accommodation support, **1,000 USD stipend**, and up to **300 USD** support for flights to Jeju
+- You will be also provided **1,000 USD worth of Google Cloud credits**
 
 ## How does this work?
 
