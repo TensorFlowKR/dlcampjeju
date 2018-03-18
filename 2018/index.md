@@ -68,6 +68,26 @@ that come from various backgrounds but all interested in practicing and advancin
 | 2018-07-31 (Tue) | Presentation day! |
 
 
+# FAQ
+
+1. Can I propose more than one project?
+    - Sure! Just include both topics in your application.
+1. Can I apply as a team?
+    - We value teamwork, but are currently seeking for individual participants.
+1. Can I join the camp with my own money if my proposal is not selected?
+    - No, becuase we have limited space, but you may consider applying to the Deep learning summer school and/or hackathon which will have separate application processes.
+1. Will datasets be provided?
+    - No, the participant should prepare their own datasets.
+1. Can we just implement previously existing models, or should we have new ideas?
+    - It's okay to just do an implemention of a model, but it is definitely preferred to have an idea to improve that model, or build a real-life application using that model.
+1. Am I allowed to bring a parter?
+    - Unfortunately we only provide accommodations for the participants. You can book your own accommodations if you wish to stay with your partner during the camp.
+1. Are there restrictions to licenses of the to-be-released open source code?
+    - An MIT licence is recommended, but can be changed with your mentor's consent.
+1. Are there restrictions to authorship of the to-be-released technical paper?
+    - The paper should include you and your mentor, but can be extended with your mentor's consent.
+
+
 <!-- footer -->
 <footer class="site-footer">
 <span class="site-footer-credits">
