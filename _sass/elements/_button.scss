@@ -1,0 +1,16 @@
+// scroll to top button
+
+#scroll-top {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  display: none;
+
+  width: 3rem;
+  height: 3rem;
+
+  @include respond-to('large') {
+    right: 5rem;
+    bottom: 5rem;
+  }
+}

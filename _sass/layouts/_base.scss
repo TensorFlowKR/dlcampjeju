@@ -1,0 +1,72 @@
+// This file imports style files for the sections used in base.html and index.html
+@import "navbar";
+@import "hero";
+@import "footer";
+@import "sponsor";
+
+// this is for typography
+.container {
+  h1 {
+    text-align: center;
+
+    &:after {
+      content: " ";
+      border-bottom: 3px solid black;
+      width: 10%;
+      display: block;
+      margin: 1em auto;
+    }
+
+    &:before {
+      content: " ";
+      display: block;
+      margin-top: 1.5em;
+    }
+  }
+}
+
+.main-content {
+  padding-bottom: 5em;
+  img {
+    width: 100%;
+    @include respond-to("small") {
+      max-width: 300px;
+    }
+  }
+
+
+  h1,
+  h2,
+  li,
+  p {
+    margin-bottom: 1.44em;
+    line-height: 1.6;
+  }
+
+  h1 {
+    margin-top: 3em;
+  }
+
+  h2 {
+    margin-top: 2em;
+  }
+
+
+  h1 {
+    font-size: modular-scale(4, 1rem);
+    text-transform: uppercase;
+  }
+
+  h2 {
+    font-size: modular-scale(3, 1rem);
+  }
+
+  h3 {
+    font-size: modular-scale(2, 1rem);
+  }
+
+  p, li  {
+    font-size: modular-scale(1, 1rem);
+  }
+
+}

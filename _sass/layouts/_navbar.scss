@@ -1,0 +1,24 @@
+// Navigation styles
+.navbar {
+  width: 100%;
+  min-height: 5px;
+  color: #fff;
+  font-size: 1.5em;
+  padding-top: 1em;
+
+  @include respond-to('small') {
+    padding-top: 1.5em;
+  }
+}
+
+.navbar-brand {
+  font-size: 1.1rem;
+
+  @include respond-to('small') {
+    font-size: 1.25rem;
+  }
+}
+
+.nav-link {
+  text-transform: uppercase;
+}
