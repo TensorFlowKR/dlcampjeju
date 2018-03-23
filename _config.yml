@@ -3,7 +3,7 @@ description: Enjoy, Share, Grow
 github: [metadata]
 google_analytics: UA-112439062-1
 baseurl: ''
-repository: TensorFlowKR/mlcampjeju
+repository: TensorFlowKR/dlcampjeju
 
 theme: jekyll-theme-cayman
 plugins:
