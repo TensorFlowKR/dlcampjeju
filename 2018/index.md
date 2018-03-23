@@ -7,7 +7,7 @@ title: 2018
 is an annual camp held at [Jeju Island, South Korea](https://en.wikipedia.org/wiki/Jeju_Island),
 which was [first launched in 2017](../2017/) with 20 participants from all over the world.
 
-This year, it will be expanded to hosting 30 participants,
+This year, it will be again be hosting 20-30 participants,
 that come from various backgrounds but all interested in practicing and advancing deep learning.
 
 <center>
@@ -19,7 +19,7 @@ that come from various backgrounds but all interested in practicing and advancin
 - You will have one whole month at Jeju to focus on a deep learning based project, surrounded with top class fellow researchers/developers
 - You will be team up with wonderful mentors, that will help you progress your project
 - You will be provided full accommodation support, 1000 USD stipend, and up to 300 USD support for flights to Jeju
-- You will be provided xxx Google Cloud credits, to use to train your models
+- You will be also provided 1000 USD worth of Google Cloud credits
 
 ## How does this work?
 
@@ -30,7 +30,7 @@ that come from various backgrounds but all interested in practicing and advancin
 - At the end of the camp, each participant will be expected to release project results as follows:
     1. Present final results at presentation day of the camp
     1. Release code as open source on GitHub
-    1. Upload technical paper uploaded to arXiv, along with mentor
+    1. Upload one technical paper of at least 3 pages uploaded to arXiv
 - Last but not least, have fun!!!
 
 ## Why Jeju?
@@ -45,7 +45,7 @@ that come from various backgrounds but all interested in practicing and advancin
 
 - Able to stay at Jeju during the full period of the camp
 - Obtains strong programming skills with TensorFlow (TF) & deep learning (DL) background
-- Willing to work intensively for one month and attend daily meetings with mentors
+- Willing to work intensively for one month and cooperatively work with mentors
 - Willing to produce practical applications of TF/DL and/or research results
 
 ## How to apply
@@ -58,13 +58,10 @@ that come from various backgrounds but all interested in practicing and advancin
 
 | Date | Description |
 | --- | --- |
-| 2018-03-26 (Mon) | Camp announced to the public |
-| 2018-04-09 (Mon) | Applications open for mentees |
+| 2018-04-02 (Mon) | Applications open |
 | 2018-05-14 (Mon) | Teams announced |
 | 2018-06-01 (Fri) | Start camp online |
 | 2018-07-02 (Mon) | Gather at Jeju |
-| 2018-07-02 (Mon) ~ 2018-07-06 (Fri) | Deep learning summer school |
-| 2018-07-23 (Mon) ~ 2018-07-27 (Fri) | Deep learning hackathon |
 | 2018-07-31 (Tue) | Presentation day! |
 
 
@@ -79,13 +76,15 @@ that come from various backgrounds but all interested in practicing and advancin
 1. Will datasets be provided?
     - No, the participant should prepare their own datasets.
 1. Can we just implement previously existing models, or should we have new ideas?
-    - It's okay to just do an implemention of a model, but it is definitely preferred to have an idea to improve that model, or build a real-life application using that model.
-1. Am I allowed to bring a parter?
+    - It's okay to just do an implemention of a model, but it is definitely preferred to have an idea to improve that model, or build a real-life application using it.
+1. Am I allowed to bring a partner?
     - Unfortunately we only provide accommodations for the participants. You can book your own accommodations if you wish to stay with your partner during the camp.
 1. Are there restrictions to licenses of the to-be-released open source code?
     - An MIT licence is recommended, but can be changed with your mentor's consent.
 1. Are there restrictions to authorship of the to-be-released technical paper?
     - The paper should include you and your mentor, but can be extended with your mentor's consent.
+1. How does the mentoring work?
+    - Most mentors are machine learning and/or deep learning experts, that have a full-time job. This means they will not be on-site most of the time, but are very enthusiatic to help you out! So please actively ask questions and start discussions with them.
 
 
 <!-- footer -->
