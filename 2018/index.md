@@ -29,7 +29,7 @@ that come from various backgrounds but all interested in practicing and advancin
 - Each participant will work on the topic for one month on-site, at Jeju
 - At the end of the camp, each participant will be expected to release project results as follows:
     1. Present final results at presentation day of the camp
-    1. Release code as open source on GitHub
+    1. Release code implemented in TensorFlow as open source on GitHub
     1. Upload one technical paper of at least 3 pages uploaded to arXiv
 - Last but not least, have fun!!!
 
