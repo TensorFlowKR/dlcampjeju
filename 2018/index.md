@@ -85,6 +85,8 @@ that come from various backgrounds but all interested in practicing and advancin
     - The paper should include you and your mentor, but can be extended with your mentor's consent.
 1. How does the mentoring work?
     - Most mentors are machine learning and/or deep learning experts, that have a full-time job. This means they will not be on-site most of the time, but are very enthusiatic to help you out! So please actively ask questions and start discussions with them.
+1. Can I develop on Keras or other ML framework/library?
+    - You can use Keras including other framework/library that can run on top of TensorFlow.
 
 
 <!-- footer -->
