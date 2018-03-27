@@ -1,0 +1,15 @@
+.footer {
+  min-height: 20vh;
+  background-color: $bg-footer;
+  color: $white;
+  text-align: center;
+  padding: 3rem 0;
+
+  p {
+    margin-bottom: 0;
+  }
+}
+
+.footer__share {
+  margin-bottom: 1em;
+}

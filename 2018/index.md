@@ -1,8 +1,9 @@
 ---
-layout: default
-title: 2018
+layout: index
+title: Deep Learning Camp Jeju 2018
 ---
 
+# Information
 **Deep Learning Camp Jeju**
 is an annual camp held at [Jeju Island, South Korea](https://en.wikipedia.org/wiki/Jeju_Island),
 which was [first launched in 2017](../2017/) with 20 participants from all over the world.
@@ -10,16 +11,16 @@ which was [first launched in 2017](../2017/) with 20 participants from all over 
 This year, it will be again be hosting 20-30 participants,
 that come from various backgrounds but all interested in practicing and advancing deep learning.
 
-<center>
-<img src="{{ site.baseurl }}/assets/images/jeju.png">
-</center>
+<div class="text-center mb-5">
+<img src="{{ '/assets/images/jeju.png' | absolute_url }}"/>
+</div>
 
 ## Why should I apply?
 
-- You will have one whole month at Jeju to focus on a deep learning based project, surrounded with top class fellow researchers/developers
+- You will have **one whole month** at Jeju to focus on a deep learning based project, surrounded by top-class fellow researchers/developers
 - You will be team up with wonderful mentors, that will help you progress your project
-- You will be provided full accommodation support, 1000 USD stipend, and up to 300 USD support for flights to Jeju
-- You will be also provided 1000 USD worth of Google Cloud credits
+- You will be provided full accommodation support, **1,000 USD stipend**, and up to **300 USD** support for flights to Jeju
+- You will be also provided **1,000 USD worth of Google Cloud credits**
 
 ## How does this work?
 
@@ -36,10 +37,10 @@ that come from various backgrounds but all interested in practicing and advancin
 ## Why Jeju?
 
 - No visa is required for most international visitors to stay up to 30 days
-- Jeju is a beautiful island, frequently referred to as the "Hawaii" in Asia
+- Jeju is a beautiful island, often referred to as the "Hawaii" in Asia
 
 
-# Applications
+# Application
 
 ## Requirements
 
@@ -54,7 +55,7 @@ that come from various backgrounds but all interested in practicing and advancin
 (Meanwhile, we recommend you start writing a brief introduction of what you'd like to work on!)
 
 
-# Important dates
+# Important Dates
 
 | Date | Description |
 | --- | --- |
@@ -64,37 +65,25 @@ that come from various backgrounds but all interested in practicing and advancin
 | 2018-07-02 (Mon) | Gather at Jeju |
 | 2018-07-31 (Tue) | Presentation day! |
 
-
 # FAQ
 
 1. Can I propose more than one project?
     - Sure! Just include both topics in your application.
 1. Can I apply as a team?
-    - We value teamwork, but are currently seeking for individual participants.
+    - We value teamwork but are currently seeking for individual participants.
 1. Can I join the camp with my own money if my proposal is not selected?
-    - No, becuase we have limited space, but you may consider applying to the Deep learning summer school and/or hackathon which will have separate application processes.
+    - No, because we have limited space, but you may consider applying to the Deep learning summer school and/or hackathon which will have separate application processes.
 1. Will datasets be provided?
     - No, the participant should prepare their own datasets.
 1. Can we just implement previously existing models, or should we have new ideas?
-    - It's okay to just do an implemention of a model, but it is definitely preferred to have an idea to improve that model, or build a real-life application using it.
+    - It's okay to just do an implementation of a model, but it is definitely preferred to have an idea to improve that model or build a real-life application using it.
 1. Am I allowed to bring a partner?
-    - Unfortunately we only provide accommodations for the participants. You can book your own accommodations if you wish to stay with your partner during the camp.
-1. Are there restrictions to licenses of the to-be-released open source code?
-    - An MIT licence is recommended, but can be changed with your mentor's consent.
-1. Are there restrictions to authorship of the to-be-released technical paper?
-    - The paper should include you and your mentor, but can be extended with your mentor's consent.
+    - Unfortunately, we only provide accommodations for the participants. You can book your own accommodations if you wish to stay with your partner during the camp.
+1. Are there restrictions on licenses of the to-be-released open source code?
+    - An MIT license is recommended but can be changed with your mentor's consent.
+1. Are there restrictions on the authorship of the to-be-released technical paper?
+    - The paper should include you and your mentor but can be extended with your mentor's consent.
 1. How does the mentoring work?
     - Most mentors are machine learning and/or deep learning experts, that have a full-time job. This means they will not be on-site most of the time, but are very enthusiatic to help you out! So please actively ask questions and start discussions with them.
 1. Can I develop on Keras or other ML framework/library?
     - You can use Keras including other framework/library that can run on top of TensorFlow.
-
-
-<!-- footer -->
-<footer class="site-footer">
-<span class="site-footer-credits">
-    This camp is organized by the
-    <a href="https://www.facebook.com/groups/TensorFlowKR">TensorFlow Korea User Group</a>,
-    and sponsored by the following organizations:
-    <i>TBA</i>
-</span>
-</footer>

@@ -1,3 +1,3 @@
 ---
-redirect_to: "/2017/"
+redirect_to: "/2018/"
 ---
