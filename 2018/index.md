@@ -8,7 +8,7 @@ title: Deep Learning Camp Jeju 2018
 is an annual camp held at [Jeju Island, South Korea](https://en.wikipedia.org/wiki/Jeju_Island),
 which was [first launched in 2017](../2017/) with 20 participants from all over the world.
 
-This year, it will be again be hosting 20-30 participants,
+This year, it will again be hosting 20-30 participants,
 that come from various backgrounds but all interested in practicing and advancing deep learning.
 
 <div class="text-center mb-5">
