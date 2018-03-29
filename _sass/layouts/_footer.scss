@@ -8,6 +8,20 @@
   p {
     margin-bottom: 0;
   }
+
+  .sponsors {
+    margin: 30px;
+    .platinum img {
+        width: 300px;
+        height: 100px;
+        margin: 10px;
+    }
+    .gold img {
+        width: 200px;
+        height: 70px;
+        margin: 10px;
+    }
+  }
 }
 
 .footer__share {

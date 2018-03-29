@@ -1,6 +1,7 @@
 ---
-layout: index
+layout: base
 title: Deep Learning Camp Jeju 2018
+footer: footers/2018.html
 ---
 
 # Information

@@ -5,8 +5,13 @@
   </head>
   <body>
     {% include layouts/navbar.html %}
-    {{ content }}
-    {% include layouts/footer.html %}
+    {% include layouts/hero.html %}
+    <section class="main-content">
+        <div class="container">
+        {{ content }}
+        </div>
+    </section>
+    {% include {{ page.footer }} %}
     <button id="scroll-top" class="btn btn-info">▲</button>
     {% include scripts.html %}
   </body>
