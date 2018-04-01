@@ -1,0 +1,26 @@
+.footer {
+  min-height: 20vh;
+  background-color: $bg-footer;
+  color: gray;
+  text-align: center;
+  padding: 3rem 0;
+
+  .organizers {
+      margin-bottom: 50px;
+      max-width: 400px;
+      max-height: 200px;
+  }
+
+  .sponsors {
+    margin: 30px;
+    .platinum img {
+        max-width: 200px;
+        max-height: 70px;
+        margin: 0 30px 50px;
+    }
+  }
+}
+
+.footer__share {
+  margin-bottom: 1em;
+}

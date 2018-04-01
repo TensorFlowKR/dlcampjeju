@@ -1,0 +1,40 @@
+// some global variables
+
+$white: #fff;
+$bg-footer: whitesmoke;
+
+$bp-small: 576px;
+$bp-medium: 768px;
+$bp-large: 992px;
+$bp-xlarge: 1200px;
+$breakpoints: (
+  'small':  $bp-small,
+  'medium': $bp-medium,
+  'large':  $bp-large,
+  'xlarge': $bp-xlarge
+);
+
+/// Mixin to manage responsive breakpoints
+/// @author Hugo Giraudel
+/// @param {String} $breakpoint - Breakpoint name
+/// @require $breakpoints
+@mixin respond-to($breakpoint) {
+  // If the key exists in the map
+  @if map-has-key($breakpoints, $breakpoint) {
+    // Prints a media query based on the value
+    @media (min-width: map-get($breakpoints, $breakpoint)) {
+      @content;
+    }
+  }
+
+  // If the key doesn't exist in the map
+  @else {
+    @warn "Unfortunately, no value could be retrieved from `#{$breakpoint}`. "
+    + "Available breakpoints are: #{map-keys($breakpoints)}.";
+  }
+}
+
+
+$bourbon: (
+  "modular-scale-ratio": 1.25,
+);

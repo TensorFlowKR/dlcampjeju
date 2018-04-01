@@ -1,0 +1,62 @@
+// Hero page
+$gradient-dark: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .3));
+
+.hero {
+  background: $gradient-dark, $bg-hero;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+
+  display: flex;
+  color: white;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero__heading {
+  font-weight: 300;
+  font-size: modular-scale(4);
+
+  @media (min-width: $bp-small) and (orientation: landscape) {
+    font-size: modular-scale(3);
+    margin-bottom: 5rem;
+  }
+
+  @include respond-to('medium') {
+    font-size: modular-scale(6);
+  }
+}
+
+.hero__dates {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 100%;
+  max-width: 1100px;
+  position: absolute;
+  bottom: 2rem;
+
+  @media (min-width: $bp-small) and (orientation: landscape) {
+    opacity: 0;
+  }
+
+  @include respond-to('medium') {
+    opacity: 1;
+  }
+}
+
+.hero__dates__title {
+  font-weight: 300;
+  font-size: modular-scale(4, 1rem);
+
+  @include respond-to('small') {
+    font-size: modular-scale(6, 1rem);
+  }
+}
+
+
+.hero__dates__label {
+  text-align: center;
+}
