@@ -1,6 +1,6 @@
-# Website for Machine Learning Camp Jeju<a id="website-for-machine-learning-camp-jeju"></a>
+# Website for Deep Learning Camp Jeju<a id="website-for-deep-learning-camp-jeju"></a>
 
-- [Website for Machine Learning Camp Jeju](#website-for-machine-learning-camp-jeju)
+- [Website for Deep Learning Camp Jeju](#website-for-deep-learning-camp-jeju)
   - [Requirements](#requirements)
   - [Development](#development)
   - [Deployment](#deployment)
