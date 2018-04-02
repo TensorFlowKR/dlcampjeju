@@ -52,8 +52,11 @@ that come from various backgrounds but all interested in practicing and advancin
 
 ## How to apply
 
-*TBA*
-(Meanwhile, we recommend you start writing a brief introduction of what you'd like to work on!)
+We are accepting applications through the following form:
+
+[[Click me!]](https://docs.google.com/forms/d/e/1FAIpQLSd1QfUVJgGijzqQQaX2Nf--30QbXlm5q1OS9d7iMgNoTTs-3A/viewform)
+
+Applications will be accepted until April 22nd, 2018.
 
 
 # Important Dates
