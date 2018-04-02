@@ -6,17 +6,27 @@
   padding: 3rem 0;
 
   .organizers {
-      margin-bottom: 50px;
+    margin-bottom: 50px;
+    img {
       max-width: 400px;
       max-height: 200px;
+    }
   }
 
   .sponsors {
-    margin: 30px;
+    margin: 20px;
     .platinum img {
         max-width: 200px;
         max-height: 70px;
         margin: 0 30px 50px;
+    }
+  }
+
+  .hosts {
+    margin-bottom: 50px;
+    img {
+      -webkit-filter: invert(50%); /* Safari 6.0 - 9.0 */
+              filter: invert(50%);
     }
   }
 }
