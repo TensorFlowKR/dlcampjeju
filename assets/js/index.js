@@ -23,16 +23,16 @@ $(function() {
   $(".navbar-toggler").click(function() {
     const height = $(".navbar-collapse").height() * 1.5;
     const hero = $(".hero");
-    const heroDates = $(".hero__dates");
+    const heroDatesContainer = $(".hero__dates-container");
 
     if (parseInt(hero.css("padding-top"), 10) > 0) {
       // closing navbar
       hero.animate({ paddingTop: 0 });
-      heroDates.fadeIn();
+      heroDatesContainer.fadeIn();
     } else {
       // opening navbar
       hero.animate({ paddingTop: height });
-      heroDates.fadeOut();
+      heroDatesContainer.fadeOut();
     }
   });
 });
