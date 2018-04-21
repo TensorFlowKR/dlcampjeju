@@ -2,8 +2,11 @@
   min-height: 20vh;
   background-color: $bg-footer;
   color: gray;
-  text-align: center;
-  padding: 3rem 0;
+  padding-top: 3rem;
+
+  img {
+    margin: 15px 30px;
+  }
 
   .organizers {
     margin-bottom: 50px;
@@ -14,20 +17,30 @@
   }
 
   .sponsors {
-    margin: 20px;
     .platinum img {
       max-width: 200px;
       max-height: 70px;
-      margin: 0 30px 10px;
+    }
+    .gold img {
+      max-width: 150px;
+      max-height: 50px;
+    }
+    .silver img, .hosts img {
+      max-width: 120px;
+      max-height: 40px;
+    }
+    .row {
+        margin-bottom: 30px;
     }
   }
 
-  .hosts {
-    margin-bottom: 50px;
-  }
-
-  .hosts__logo {
-    width: 200px;
+  .email {
+      background-color: lightgray;
+      text-align: center;
+      padding: 30px;
+      a {
+        color: gray;
+      }
   }
 }
 

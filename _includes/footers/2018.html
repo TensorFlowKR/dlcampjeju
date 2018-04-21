@@ -1,27 +1,38 @@
 <!-- footer -->
 <footer class="footer">
-  <div class="footer__text site-footer-credits">
-    <p>This camp is organized by the <a href="https://www.facebook.com/groups/TensorFlowKR">TensorFlow Korea User Group</a>:</p>
-    <div class="organizers">
-      <img src="./tfkr.png">
-    </div>
-
-    <p>And made possible by our <i>Platinum</i> sponsors:</p>
-    <div class="sponsors">
-      <div class="platinum">
-        <img src="./google.png">
-        <img src="./kakao-brain.png">
-        <img src="./netmarble.png">
-        <img src="./sk-telecom.png">
+  <div class="footer__text site-footer-credits container">
+    <div class="row">
+      <div class="col-lg-4 col-xs-12 organizers">
+        <b>Organized by:</b>
+        <div><a href="https://www.facebook.com/groups/TensorFlowKR"><img src="./tfkr.png"></a></div>
       </div>
-     </div>
-
-    <p>And our host:</p>
-    <div class="hosts">
-      <img class="hosts__logo" src="{{ '/assets/images/sponsors/jeju_univ.svg' | absolute_url }}" alt="Jeju University">
+      <div class="col-lg-8 col-xs-12 sponsors">
+        <b>Sponsored by:</b>
+        <div class="row">
+          <div class="col-3">Platinum:</div>
+          <div class="col-9 platinum">
+            <img src="./google.png">
+            <img src="./kakao-brain.png">
+            <img src="./netmarble.png">
+            <img src="./sk-telecom.png">
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-3">Silver:</div>
+          <div class="col-9 silver">
+            <img src="./elementai.png">
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-3">Host:</div>
+          <div class="col-9 hosts">
+            <img src="{{ '/assets/images/sponsors/jeju_univ.svg' | absolute_url }}" alt="Jeju University">
+          </div>
+        </div>
+      </div>
     </div>
   </div>
-  <p>
+  <div class="email">
     <a href="mailto:info.jeju.dlcamp.org@gmail.com">info.jeju.dlcamp.org@gmail.com</a>
-  </p>
+  </div>
 </footer>
