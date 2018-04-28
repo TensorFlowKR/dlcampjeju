@@ -4,9 +4,9 @@
  */
 $(function() {
   // Camp Begin Date
-  const campBeginDate = new Date("Mon, 2 July 2018 08:00:00 +0900");
-  const message =
-    "FYI, the camp will begin " + campBeginDate + " at your timezone";
+  const campBeginDate = new Date("Mon, 2 July 2018 08:00:00 +0900"),
+    applicationEndDate = new Date("Mon, 30 April 2018 23:59:59 +0000"),
+    message = "FYI, the camp will begin " + campBeginDate + " at your timezone";
   console.log(message);
 
   // tick down the hero timer
@@ -27,14 +27,21 @@ $(function() {
 
     if (parseInt(hero.css("padding-top"), 10) > 0) {
       // closing navbar
-      hero.animate({ paddingTop: 0 });
+      hero.animate({
+        paddingTop: 0,
+      });
       heroDatesContainer.fadeIn();
     } else {
       // opening navbar
-      hero.animate({ paddingTop: height });
+      hero.animate({
+        paddingTop: height,
+      });
       heroDatesContainer.fadeOut();
     }
   });
+
+  // update application due date
+  $("#applicationDue--local").text(applicationEndDate.toLocaleString());
 });
 
 /**
@@ -150,7 +157,9 @@ function initTopButton() {
   });
 
   scrollBtn.click(function() {
-    const topPosition = { scrollTop: 0 };
+    const topPosition = {
+      scrollTop: 0,
+    };
     $("html, body").animate(topPosition, 1000);
   });
 }
