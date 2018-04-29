@@ -56,12 +56,14 @@ We are accepting applications through the following form:
 
 [[Click me!]](https://docs.google.com/forms/d/e/1FAIpQLSd1QfUVJgGijzqQQaX2Nf--30QbXlm5q1OS9d7iMgNoTTs-3A/viewform)
 
-Applications will be accepted until April 30th, 2018.
+Applications will be accepted until April 30th, 2018 (UTC) (or precisely 2018-04-30T23:59:59Z).
+
+<div class="text-muted">In your timezone, it's <span id="applicationDue--local"></span></div>
 
 
 # Important Dates
 
-| Date | Description |
+| Date (UTC) | Description |
 | --- | --- |
 | 2018-04-02 (Mon) | Applications open |
 | 2018-04-30 (Mon) | Applications closed |
