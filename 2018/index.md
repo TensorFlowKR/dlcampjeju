@@ -67,7 +67,7 @@ Applications will be accepted until April 30th, 2018 (UTC) (or precisely 2018-04
 | --- | --- |
 | 2018-04-02 (Mon) | Applications open |
 | 2018-04-30 (Mon) | Applications closed |
-| 2018-05-23 (Wed) | Teams announced |
+| 2018-05-23 (Wed) | Teams announced (email was sent) |
 | 2018-06-01 (Fri) | Start camp online |
 | 2018-07-01 (Sun) | Gather at Jeju |
 | 2018-07-02 (Mon) | Start camp offline |
