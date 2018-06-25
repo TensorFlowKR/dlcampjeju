@@ -1,6 +1,6 @@
 /**
- * @fileOverview JavaScript for index.html (animation + countdown timer)
- * @name index.js
+ * @fileOverview JavaScript for index.html (animation + countdown timer).
+ * `jekyll-minifier` doesn't support `let`. `const` works though
  */
 $(function() {
   // Camp Begin Date
@@ -50,23 +50,31 @@ $(function() {
  * @returns {Array<number>} [days, hours, minutes, seconds]
  */
 function getDaysHoursSeconds(dDate) {
+  const timeDiff = dDate - new Date();
+
+  if (timeDiff <= 0) {
+    // the time difference is negative if dDate <= today
+    // return 0 so it shows 0 days 0 hours 0 minutes 0 seconds left
+    return [0, 0, 0, 0];
+  }
+
   // get total seconds between the times
-  var delta = Math.abs(dDate - new Date()) / 1000;
+  var delta = Math.abs(timeDiff) / 1000;
 
   // calculate (and subtract) whole days
-  var days = Math.floor(delta / 86400);
+  const days = Math.floor(delta / 86400);
   delta -= days * 86400;
 
   // calculate (and subtract) whole hours
-  var hours = Math.floor(delta / 3600) % 24;
+  const hours = Math.floor(delta / 3600) % 24;
   delta -= hours * 3600;
 
   // calculate (and subtract) whole minutes
-  var minutes = Math.floor(delta / 60) % 60;
+  const minutes = Math.floor(delta / 60) % 60;
   delta -= minutes * 60;
 
   // what's left is seconds
-  var seconds = Math.floor(delta % 60); // in theory the modulus is not required
+  const seconds = Math.floor(delta % 60); // in theory the modulus is not required
 
   return [days, hours, minutes, seconds];
 }
