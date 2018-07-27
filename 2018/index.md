@@ -117,7 +117,7 @@ Below are links to final presentations, from our fascinating participants:
 | Valliappa Chockalingam & Rishab Gargeya | [Evaluating generalization with distributional RL agents](https://github.com/geekstor/jeju-dl-camp-2018)
 | Amlesh Sivanantham | [Imagination-augmented agents for deep reinforcement learning on solving Rubik's cubes](https://github.com/zamlz/dlcampjeju2018-I2A-cube)
 | Hyunsun Choi | [Uncertainty estimation in latent variable inference](https://github.com/hschoi1/rich_latent/)
-| Abien Fred Agarap | [On equilibrium of discriminative neural networks](https://github.com/cooperative-neural-nets)
+| Abien Fred Agarap | [On equilibrium of discriminative neural networks](https://github.com/AFAgarap/cooperative-neural-nets)
 | Seo Yeon Stella Yang | [Deep learning aided GPS/INS smartphone pedestrian dead reckoning](https://github.com/howtowhy/deeplearning-aided-smartphone-pdr) [[slides]](https://docs.google.com/presentation/d/16HFLcTdxga2KpklrRkPA5kJMH09pTbymG0Hk7THQA80/edit?usp=sharing)
 | Jaewook Kang | [Don't be a turtle](https://github.com/motlabs/dont-be-turtle)
 | Taekmin Kim | [Real-time video segmentation on mobile devices](http://github.com/tantara/JejuNet)
