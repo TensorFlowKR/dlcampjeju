@@ -97,3 +97,31 @@ Applications will be accepted until April 30th, 2018 (UTC) (or precisely 2018-04
 1. Can I develop on Keras or other ML framework/library?
     - You can use Keras including other framework/library that can run on top of TensorFlow.
 
+
+# Results
+
+Below are links to final presentations, from our fascinating participants:
+
+| Participant | Title |
+| --- | --- |
+| Eyal Gruss | [Autotransformer](https://github.com/eyaler/autotransformer)
+| Masahiro Kaneko | [Document-level re-ranking for NMT](https://github.com/kanekomasahiro/Re-ranking)
+| Hong Min | [Emotion-aware conversational interface](https://github.com/minh364/jejuDLcamp_emotion)  [[slides]](https://docs.google.com/presentation/d/1KhDNmQDuvWiQ2-A3REiayisGM00CDjCrDB54-qLaIUw/edit#slide=id.g3e44477925_0_222)
+| Ali Zaidi | [Multilingual transfer learning with transformer models](https://github.com/akzaidi/fine-lm)
+| Brett Beaulieu-Jones | [Predicting healthcare outcomes with recurrent neural networks and concept embeddings](https://github.com/brettbj/ClinicalClustering)
+| Anoop Toffy, Chaeyoung Lee | [Improving speech recognition accuracy using synthesised speech output from semi-supervised GANs](https://github.com/acheketa/cwavegan)
+| Leo Kim, Olga Slizovskaia | [Visually-informed music source separation](https://github.com/Veleslavia/vimss) [[demo 1]](https://youtu.be/mGfhgLt1Ds4), [[demo 2]](https://youtu.be/mVqIMXoSDqE)
+| Feryal Behbahani | [Automated curriculum learning for reinforcement learning](https://github.com/Feryal/jeju_project)
+| Jeewoo Kim | [Competitive self-play on multi-snakes environment](https://github.com/jdubkim/dlcampjeju2018) [[slides]](https://docs.google.com/presentation/d/1XHbwQRSMPchT7qioqqTITtZcpsCMbw-EAOZAHVAKq1g/edit?usp=sharing )
+| Tegg Sung, Aleksandra Malysheva | [Multi-agents control using graph neural networks](https://github.com/tegg89/magnn)
+| Valliappa Chockalingam & Rishab Gargeya | [Evaluating generalization with distributional RL agents](https://github.com/geekstor/jeju-dl-camp-2018)
+| Amlesh Sivanantham | [Imagination-augmented agents for deep reinforcement learning on solving Rubik's cubes](https://github.com/zamlz/dlcampjeju2018-I2A-cube)
+| Hyunsun Choi | [Uncertainty estimation in latent variable inference](https://github.com/hschoi1/rich_latent/)
+| Abien Fred Agarap | [On equilibrium of discriminative neural networks](https://github.com/cooperative-neural-nets)
+| Seo Yeon Stella Yang | [Deep learning aided GPS/INS smartphone pedestrian dead reckoning](https://github.com/howtowhy/deeplearning-aided-smartphone-pdr) [[slides]](https://docs.google.com/presentation/d/16HFLcTdxga2KpklrRkPA5kJMH09pTbymG0Hk7THQA80/edit?usp=sharing)
+| Jaewook Kang | [Don't be a turtle](https://github.com/motlabs/dont-be-turtle)
+| Taekmin Kim | [Real-time video segmentation on mobile devices](http://github.com/tantara/JejuNet)
+| Sein Jang | [Location aware recommendation on mobile devices](https://github.com/Sein-Jang/JEJU-DLCAMP) [[slides]](https://drive.google.com/open?id=13xLuDkmmdZQa2e2JGYGNIMWZpBlNNI-U)
+| Oh-hyeon Choung | [Image semantic segmentation by integrating multi-scale feature maps](https://github.com/Ohyeon5/MultiscaleSegmentation)
+| Carlos Santana Vega | [Long term video generation](https://github.com/csvreel/JEJU2018)
+| Mudassar Liaq | [Unsupervised video summarization using reinforcement learning](https://github.com/liaq192/VSUMM) [[slides]](https://drive.google.com/open?id=1nvk5QaXaSlqeVFCfCuqjmzs7YsVfOv2w)
