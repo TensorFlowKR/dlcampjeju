@@ -41,6 +41,20 @@ that come from various backgrounds but all interested in practicing and advancin
 - Jeju is a beautiful island, often referred to as the "Hawaii" in Asia
 
 
+# Important Dates
+
+| Date (UTC) | Description |
+| --- | --- |
+| 2018-04-02 (Mon) | Applications open |
+| 2018-04-30 (Mon) | Applications closed |
+| 2018-05-23 (Wed) | Teams announced (email was sent) |
+| 2018-06-01 (Fri) | Start camp online |
+| 2018-07-01 (Sun) | Gather at Jeju |
+| 2018-07-02 (Mon) | Start camp offline |
+| 2018-07-13 (Fri) | Mid-term conference & presentation |
+| 2018-07-27 (Fri) | Final presentation day! |
+
+
 # Application
 
 ## Requirements
@@ -60,21 +74,7 @@ Applications will be accepted until April 30th, 2018 (UTC) (or precisely 2018-04
 
 <div class="text-muted">In your timezone, it's <span id="applicationDue--local"></span></div>
 
-
-# Important Dates
-
-| Date (UTC) | Description |
-| --- | --- |
-| 2018-04-02 (Mon) | Applications open |
-| 2018-04-30 (Mon) | Applications closed |
-| 2018-05-23 (Wed) | Teams announced (email was sent) |
-| 2018-06-01 (Fri) | Start camp online |
-| 2018-07-01 (Sun) | Gather at Jeju |
-| 2018-07-02 (Mon) | Start camp offline |
-| 2018-07-13 (Fri) | Mid-term conference & presentation |
-| 2018-07-26,27 (Thu,Fri) | Final presentation day! |
-
-# FAQ
+## FAQ
 
 1. Can I propose more than one project?
     - Sure! Just include both topics in your application.
@@ -96,3 +96,4 @@ Applications will be accepted until April 30th, 2018 (UTC) (or precisely 2018-04
     - Most mentors are machine learning and/or deep learning experts, that have a full-time job. This means they will not be on-site most of the time, but are very enthusiatic to help you out! So please actively ask questions and start discussions with them.
 1. Can I develop on Keras or other ML framework/library?
     - You can use Keras including other framework/library that can run on top of TensorFlow.
+
